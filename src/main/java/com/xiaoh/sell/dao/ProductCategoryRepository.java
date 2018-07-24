@@ -7,7 +7,7 @@ package com.xiaoh.sell.dao;
  * @date 2018/6/29 16:16
  */
 
-import com.xiaoh.sell.dto.ProductCategory;
+import com.xiaoh.sell.entity.ProductCategory;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

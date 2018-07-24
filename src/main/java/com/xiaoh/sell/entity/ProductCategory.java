@@ -1,7 +1,7 @@
-package com.xiaoh.sell.dto;
+package com.xiaoh.sell.entity;
 /**
  * @Title: ProductCategory
- * @Package com.xiaoh.sell.dto
+ * @Package com.xiaoh.sell.entity
  * @Description: 类目
  * @author huangyong
  * @date 2018/6/29 16:02

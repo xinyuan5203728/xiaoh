@@ -1,6 +1,6 @@
 package com.xiaoh.sell.service;
 
-import com.xiaoh.sell.dto.ProductCategory;
+import com.xiaoh.sell.entity.ProductCategory;
 
 import java.util.List;
 

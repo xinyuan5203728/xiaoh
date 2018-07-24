@@ -7,7 +7,7 @@ package com.xiaoh.sell.service.impl;
  */
 
 import com.xiaoh.sell.dao.ProductCategoryRepository;
-import com.xiaoh.sell.dto.ProductCategory;
+import com.xiaoh.sell.entity.ProductCategory;
 import com.xiaoh.sell.service.CategoryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
