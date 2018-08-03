@@ -8,6 +8,12 @@ package com.xiaoh.sell.common.enums;
  */
 public enum ResultEnum {
     PRODUCT_NOT_EXISTS(10,"商品不存在"),
+
+    PRODUCT_STOCK_ERROR(11,"商品库存不正确"),
+
+    ORDER_NOT_EXISTS(12,"订单不存在"),
+
+    ORDER_DETAIL_NOT_EXISTS(13,"订单详情不存在"),
     ;
 
     private Integer code;
